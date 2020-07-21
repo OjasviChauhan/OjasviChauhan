@@ -6,16 +6,16 @@
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
-- Cpp <code><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-- Python3 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/python.png?raw=true"></code>
-- Java <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/java.png?raw=true"></code>
-- HTML5 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/html5.png?raw=true"></code>
-- CSS3 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/css3.png?raw=true"></code>
-- Javascript <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/javascript.png?raw=true"></code>
-- Node.js <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/nodejs.png?raw=true"></code>
-- React.js <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/react.png?raw=true"></code>
-- Solidity <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/solidity.png?raw=true"></code>
-- Ethereum <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/ethereum.png?raw=true"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/python.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/java.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/html5.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/css3.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/javascript.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/nodejs.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/react.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/solidity.png?raw=true"></code>
+<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/ethereum.png?raw=true"></code>
 
 ### Achievements and Milestones :crown:
 
