@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**OjasviChauhan/OjasviChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I :heart: GitHub :octocat:
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=OjasviChauhan&show_icons=true&line_height=30)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :open_book: :books: Area of Expertise :closed_book: :green_book:
+
+- Cpp <code><img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+- Python3 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/python.png?raw=true"></code>
+- Java <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/java.png?raw=true"></code>
+- HTML5 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/html5.png?raw=true"></code>
+- CSS3 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/css3.png?raw=true"></code>
+- Javascript <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/javascript.png?raw=true"></code>
+- Node.js <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/nodejs.png?raw=true"></code>
+- React.js <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/react.png?raw=true"></code>
+- Solidity <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/solidity.png?raw=true"></code>
+- Ethereum <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/ethereum.png?raw=true"></code>
+
+### Achievements and Milestones :crown:
+
+:sparkles: Got invited by Google for its secret hiring challenge & completed it till Level 3.
+
+:sparkles: Solved 7 questions (6 fully,1 partially) in June Long Challenge at CodeChef with a rank of #1556 out of around 30,000 people and became 3⭐️ coder.
+
+:sparkles: Scored #741 Rank in Hack the Interview IV (Asia Pacific) of HackerRank.
+
+:sparkles: Build a personal portfolio website using **React** and **Gatsby**.<br>
+<img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/portfolioGIF.gif?raw=true">
+
+## Let's Connect :people_holding_hands:
+
+<p align='center'>
+<a href="https://twitter.com/OjasviChauhan23"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ojasvi-chauhan-852706173/"><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/linkedin.png?raw=true"></a>
+</p>
