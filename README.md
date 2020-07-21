@@ -19,9 +19,9 @@
 
 ### Achievements and Milestones :crown:
 
-:sparkles: Got invited by Google for its secret hiring challenge & completed it till Level 3.
+:sparkles: Got invited by Google for its secret hiring challenge known as **Foobar Challenge** & completed it till Level 3.
 
-:sparkles: Solved 7 questions (6 fully,1 partially) in June Long Challenge at CodeChef with a rank of #1556 out of around 30,000 people and became 3⭐️ coder.
+:sparkles: Solved 7 questions (6 fully,1 partially) in June Long Challenge of CodeChef with a rank of #1556 out of around 30,000 people and became 3⭐️ coder.
 
 :sparkles: Scored #741 Rank in Hack the Interview IV (Asia Pacific) of HackerRank.
 
