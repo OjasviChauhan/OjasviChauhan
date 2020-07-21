@@ -2,7 +2,7 @@
 
 ### I :heart: GitHub :octocat:
 
-![](https://github-readme-stats.vercel.app/api?username=OjasviChauhan&show_icons=true&line_height=30)
+![Ojasvi's Github Stats](https://github-readme-stats.vercel.app/api?username=OjasviChauhan&show_icons=true&line_height=30&theme=radical)
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
