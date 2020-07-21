@@ -26,7 +26,10 @@
 :sparkles: Scored #741 Rank in Hack the Interview IV (Asia Pacific) of HackerRank.
 
 :sparkles: Build a personal portfolio website using **React** and **Gatsby**.<br>
-<img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/portfolioGIF.gif?raw=true">
+
+<p align='center'>
+<img src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/portfolioGIF.gif?raw=true">
+</p>
 
 ## Let's Connect :people_holding_hands:
 
