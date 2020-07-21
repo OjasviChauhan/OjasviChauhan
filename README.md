@@ -28,7 +28,8 @@
 :sparkles: Build a personal portfolio website using **React** and **Gatsby**.<br>
 
 <p align='center'>
-<img src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/portfolioGIF.gif?raw=true">
+<a href="https://ojasvichauhan.netlify.app/">  
+<img src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/portfolioGIF.gif?raw=true"></a>
 </p>
 
 ## Let's Connect :people_holding_hands:
