@@ -25,6 +25,8 @@
 
 :sparkles: Scored #741 Rank in Hack the Interview IV (Asia Pacific) of HackerRank.
 
+:sparkles: Completed 100DaysOfCode Challenge.
+
 :sparkles: Build a personal portfolio website using **React** and **Gatsby**.<br>
 
 <a href="https://ojasvichauhan.netlify.app/">  
