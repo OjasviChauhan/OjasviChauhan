@@ -1,7 +1,5 @@
 ## Hi there, I'm Ojasvi 👋
 
-### I :heart: GitHub :octocat:
-
 ![Ojasvi's Github Stats](https://github-readme-stats.vercel.app/api?username=OjasviChauhan&show_icons=true&line_height=30)
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
