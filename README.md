@@ -1,6 +1,6 @@
 ## Hi there, I'm Ojasvi 👋
 
-![Ojasvi's Github Stats](https://github-readme-stats.vercel.app/api?username=OjasviChauhan&show_icons=true&line_height=30)
+![Ojasvi's Github Stats](https://github-readme-stats.vercel.app/api?username=OjasviChauhan&show_icons=true&line_height=30&theme=dracula)
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
