@@ -12,8 +12,6 @@
 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/javascript.png?raw=true"></code>
 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/nodejs.png?raw=true"></code>
 <code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/react.png?raw=true"></code>
-<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/solidity.png?raw=true"></code>
-<code><img height="30" src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/ethereum.png?raw=true"></code>
 
 ### Achievements and Milestones :crown:
 
