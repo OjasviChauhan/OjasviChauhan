@@ -17,15 +17,13 @@
 
 :sparkles: Cracked Power Programmer at [HackwithInfy](https://www.infosys.com/careers/hackwithinfy.html) 2021.
 
-:sparkles: Got invited by Google for its secret hiring challenge known as **Foobar Challenge** & completed it till Level 3.
+:sparkles: Got 4330th World Rank at Google [HashCode](https://codingcompetitions.withgoogle.com/hashcode/) 2021.
 
-:sparkles: Solved 7 questions (6 fully,1 partially) in June Long Challenge of CodeChef with a rank of #1556 out of around 30,000 people and became 3⭐️ coder.
+:sparkles: Won [CSI Hackathon 5.0](https://verify.givemycertificate.com/verify/2102006546000013)
 
-:sparkles: Scored #741 Rank in Hack the Interview IV (Asia Pacific) of HackerRank.
+:sparkles: 300+ [LeetCode](https://leetcode.com/ojasvichauhan2304/), 5* [HackerRank](https://www.hackerrank.com/ojasvichauhan231), 3* [CodeChef].(https://www.codechef.com/users/ojasvichauhan)
 
 :sparkles: Completed 100DaysOfCode Challenge twice.
-
-:sparkles: Build a personal portfolio website using **React** and **Gatsby**.<br>
 
 <a href="https://ojasvichauhan.netlify.app/">  
 <img src="https://github.com/OjasviChauhan/OjasviChauhan/blob/master/img/portfolioGIF.gif?raw=true"></a>
