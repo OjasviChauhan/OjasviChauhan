@@ -15,6 +15,8 @@
 
 ### Achievements and Milestones :crown:
 
+:sparkles: Cracked Power Programmer at [HackwithInfy](https://www.infosys.com/careers/hackwithinfy.html) 2021.
+
 :sparkles: Got invited by Google for its secret hiring challenge known as **Foobar Challenge** & completed it till Level 3.
 
 :sparkles: Solved 7 questions (6 fully,1 partially) in June Long Challenge of CodeChef with a rank of #1556 out of around 30,000 people and became 3⭐️ coder.
