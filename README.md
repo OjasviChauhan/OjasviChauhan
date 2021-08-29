@@ -21,7 +21,7 @@
 
 :sparkles: Won [CSI Hackathon 5.0](https://verify.givemycertificate.com/verify/2102006546000013)
 
-:sparkles: 300+ [LeetCode](https://leetcode.com/ojasvichauhan2304/), 5* [HackerRank](https://www.hackerrank.com/ojasvichauhan231), 3* [CodeChef].(https://www.codechef.com/users/ojasvichauhan)
+:sparkles: 300+ [LeetCode](https://leetcode.com/ojasvichauhan2304/), 5* [HackerRank](https://www.hackerrank.com/ojasvichauhan231), 3* [CodeChef](https://www.codechef.com/users/ojasvichauhan).
 
 :sparkles: Completed 100DaysOfCode Challenge twice.
 
